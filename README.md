@@ -1,6 +1,6 @@
 # Fluidum
 
-Fluidum, a Dapp Hackaton project which aims to create the right tool to engage mass adoption of money streaming by proving user the ability to stream money to phone numbers
+Fluidum, a Dapp Hackaton project which aims to create the right tool to engage mass adoption of money streaming by providing users the ability to stream money to phone numbers
 
 ## Major building blocks and challenges
 
@@ -15,6 +15,6 @@ Fluidum, a Dapp Hackaton project which aims to create the right tool to engage m
    - Establishing maximal and minimal accepted deviation of exchange variation 
 
 3) Dapp in Angular frontend with components:
-   - Phone Identificaiton
-   - Streaminto to checkout
+   - Phone Identificition
+   - Stream into to checkout
 
